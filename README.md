@@ -2,7 +2,7 @@
 
 This repository contain models and code for the paper titled "The Cascade Transformer: an Application for Efficient Answer Sentence Selection", which has been accepted for publication at ACL 2020.
 
-A copy of the paper is available on arXiv
+A copy of the paper is available on [arXiv]().
 
 If you want to cite our work, please use the following BibTex:
 
