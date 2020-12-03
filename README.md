@@ -21,7 +21,7 @@ If you want to cite our work, please use the following BibTex:
 
 ## Data
 
-*We are still preparing the data! Stay tuned.*
+Please see under the directory `data/`.
 
 ## Models
 
