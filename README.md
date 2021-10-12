@@ -1,28 +1,12 @@
-# The Cascade Transformer: an Application for Efficient Answer Sentence Selection
+# Web Question Answering
 
-This repository contain models and code for the paper titled "The Cascade Transformer: an Application for Efficient Answer Sentence Selection", which has been accepted for publication at ACL 2020.
+This directory contains a collections of data and models for Web Question Answering.
 
-A copy of the paper is available on [arXiv](http://arxiv.org/abs/2005.02534).
+- For data and models for paper "The Cascade Transformer: an Application for Efficient Answer Sentence Selection", see under [acl2020cascade](https://github.com/alexa/wqa-cascade-transformers/tree/master/acl2020cascade).
+- For data for paper our multlingual generative paper, see under [arxiv2021mgqa](https://github.com/alexa/wqa-cascade-transformers/tree/master/arxiv2021mgqa).
 
-If you want to cite our work, please use the following BibTex:
+## Contact
 
-```bibtex
-@inproceedings{soldaini2020cascade,
-    title = "The Cascade Transformer: an Application for Efficient Answer Sentence Selection",
-    author = "Soldaini, Luca and Moschitti, Alessandro",
-    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop",
-    month = jul,
-    year = "2020",
-    address = "Seattle, WA, USA",
-    publisher = "Association for Computational Linguistics",
-}
+For help or issues, please submit a GitHub issue.
 
-```
-
-## Data
-
-Please see under the directory `data/`.
-
-## Models
-
-*We are still preparing the models! Stay tuned.*
+For direct communication, please contact Luca Soldaini (lssoldai at amazon dot com).
